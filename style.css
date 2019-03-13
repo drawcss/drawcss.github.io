@@ -378,13 +378,14 @@ small {
 
 .resume-header-avatar{
 	width: 30%;
-	height: 150px;
+	height: 180px;
 	padding-right: 60px;
 }
 
 .resume-header-avatar img{
-	width: 100%;
-	height: auto;
+	width: auto;
+	height: 100%;
+	float: right;
 }
 
 .resume-header-introduce {
@@ -799,8 +800,7 @@ small {
   	}
 
 	.resume-header-avatar {
-		width: 260px;
-		margin-bottom: 50px;
+		margin-bottom: 10px;
 	}
 
   	.resume-header-text *,
@@ -820,6 +820,10 @@ small {
   	}
   	.resume-main-right {
   		width: 100%;
+  	}
+
+  	.resume-header-avatar img{
+  		float: none;
   	}
 
 }
