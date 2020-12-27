@@ -62,3 +62,42 @@
 		padding-right: 50px; 
 	}
 }
+
+/*preloadedImages - Temp*/
+#preloadedImages
+{
+    width: 0px;
+    height: 0px;
+    display: inline;
+    background-image: url("images/aodai-character.jpg");
+    background-image: url("images/avatar.png");
+    background-image: url("images/cartoon-character-painting.jpg");
+    background-image: url("images/character-turnaround.jpg");
+    background-image: url("images/City-Isometric.jpg");
+    background-image: url("images/country-man-illustration.jpg");
+    background-image: url("images/drawing-wireframe.jpg");
+    background-image: url("images/Environment-Forest.png");
+    background-image: url("images/family-illustration.jpg");
+    background-image: url("images/free-resume-landingpage-gif.gif");
+    background-image: url("images/galaxy-cutest.jpg");
+    background-image: url("images/girl-portrait-illustration-ins_portrait-illustration.png");
+    background-image: url("images/Isometric Illustration-final.jpg");
+    background-image: url("images/isometric-cat-robotic.jpg");
+    background-image: url("images/Japanese-Castle.jpg");
+    background-image: url("images/lumen-girl-illustration.jpg");
+    background-image: url("images/Microbiology.jpg");
+    background-image: url("images/piano-illustration.jpg");
+    background-image: url("images/saya-animated-gif.gif");
+    background-image: url("images/shepherd.jpg");
+    background-image: url("images/shiba-warrior-illustration.jpg");
+    background-image: url("images/shiba-warrior-illustration.png");
+    background-image: url("images/Structure.jpg");
+    background-image: url("images/talk-and-listen-app.png");
+    background-image: url("images/the-train-illustration.png");
+    background-image: url("images/violon-girl-illustration.jpg");
+    background-image: url("images/walking-girl.jpg");
+    background-image: url("images/cartoon-bg.jpg");
+    background-image: url("images/stylized-portrait.jpg");
+    background-image: url("images/nature-girl-illustration.jpg");
+    background-image: url("images/geometric-illustration.png");
+}
